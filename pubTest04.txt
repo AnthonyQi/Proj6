@@ -1,0 +1,26 @@
+Index 0: null
+Index 1: cat
+Index 2: hawk
+Index 3: null
+Index 4: goose
+Index 5: null
+Index 6: null
+Index 7: null
+Index 8: null
+Index 9: null
+Index 10: date
+Index 11: null
+Index 12: eagle
+Index 13: apple
+Index 14: null
+Index 15: null
+Index 16: null
+Index 17: ibis
+Index 18: banjo
+Index 19: fish
+Index 20: joe
+Index 21: null
+Index 22: null
+
+Hash Code for 'Apple': 13451930
+Hash Code for 'Banjo': 13478616

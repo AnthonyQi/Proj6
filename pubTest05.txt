@@ -1,0 +1,21 @@
+Before Removal:
+Index 0: apple
+Index 1: null
+Index 2: bat
+Index 3: cake
+Index 4: null
+
+After Removal:
+Index 0: apple
+Index 1: null
+Index 2: DELETED
+Index 3: DELETED
+Index 4: null
+
+After Add:
+Index 0: apple
+Index 1: play
+Index 2: walk
+Index 3: DELETED
+Index 4: null
+

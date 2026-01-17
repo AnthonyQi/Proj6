@@ -1,0 +1,6 @@
+0 -> (7000, Grape) (9000, Iced Tea) 
+1 -> (3000, Cherry) (1000, Apple) (9999, Jackfruit) 
+2 -> 
+3 -> (4000, Date) (2000, Banana) (6000, Fig) (8000, Honeydew) 
+4 -> 
+
